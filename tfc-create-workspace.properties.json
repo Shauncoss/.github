@@ -1,0 +1,13 @@
+{
+    "name": "TFC Create Workspace",
+    "description": "TFC Create Workspace Starter Workflow",
+    "iconName": "example-icon",
+    "categories": [
+        "HCL"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
